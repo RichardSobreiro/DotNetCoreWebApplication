@@ -1,8 +1,6 @@
-﻿using System;
-
-namespace TarefaProcesso
+﻿namespace TarefaProcesso
 {
-    public class Class1
+	public class Class1
     {
     }
 }
